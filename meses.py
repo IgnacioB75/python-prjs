@@ -3,7 +3,7 @@ meses_30 = [ 4, 6, 9, 11] # Meses que tienen 30 días
 meses_31 = [ 1, 3, 5, 7, 8, 10, 12] # Meses que tienen 31 días
 meses = ["Enero", "Febrero", "Marzo","Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"] # Array de los meses del año
 
-def dias_mes():
+def dias_mes(): # Mostrar cantidad de días del mes
     if numero_mes in meses_30:
         return 30
         # print("El mes tiene 30 días")
@@ -17,11 +17,11 @@ def dias_mes():
         return None
         # print("Número de mes no válido")
 
-while 1: # "while 1" = Si el programa inicia (1 = ON)
+while 1: # "while 1" = Si el programa inicia (1 = True = ON)
     try: # El programa intenta iniciar la función, si no puede pasa a 'except'
-        print(f"\n") # Salto de línea en consola
+        
         numero_mes = int(input("Ingresa un número de mes (1-12): "))  # Input del número del mes
-        print("El número del mes introducido es:", numero_mes)  # Mostrarle al usuario su elección
+        print(f"El número del mes introducido es: {numero_mes}")  # Mostrarle al usuario su elección
 
         if 1 <= numero_mes <= 12:
             print("-------------------------------------")
@@ -45,5 +45,6 @@ while 1: # "while 1" = Si el programa inicia (1 = ON)
 
         if retry.lower() != 's': # Si el usuario presiona tecla distinta a "s", se termina el bucle | .lower() escribe el input en letras minúsculas
             break  # Termina el bucle si el usuario no quiere intentarlo de nuevo
+        print(f"\n") # Salto de línea en consola
 
 # Testing: numero_mes = -1|0|2|4|5|13 

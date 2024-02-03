@@ -27,6 +27,7 @@ while True: # Función que se ejecuta al iniciar el programa
         segundos = 0
         dia += 1
     
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     table = [[f'{hora:0>2}',
               f'{minutos:0>2}',
               f'{segundos:0>2}']] # Contenido de la tabla | la cadena f'{hora:0>2}' sirve para darle formato al texto, en estos casos si no tiene 2 dígitos dice >>> 00 
@@ -40,12 +41,4 @@ while True: # Función que se ejecuta al iniciar el programa
 
     time.sleep(1) # Tiempo antes de incrementar el contador en segundos
     os.system("cls") # Limpia la terminal
-
-'''
-    print(tabulate(table, headers, tablefmt="simple"))
-    print(tabulate(table, headers, tablefmt="plain"))
-    print(tabulate(table, headers, tablefmt="grid"))
-⭐ print(tabulate(table, headers, tablefmt="simple_grid")) ⭐
-    print(tabulate(table, headers, tablefmt="heavy_grid"))
-    print(tabulate(table, headers, tablefmt="mixed_grid"))
-'''
+    # - - - - - - - - - - - - - - - - - - - - - - - - - - - 
