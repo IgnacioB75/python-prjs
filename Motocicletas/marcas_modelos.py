@@ -297,7 +297,7 @@ marcas_motos = {
 }
 
 sinonimos_marcas = {
-    "YAMAHA": ["YAMAHA", "YAMA", "YMH","YAMA","YAM","AMAHA"],
+    "YAMAHA": ["YAMAHA", "YAMA", "YMH","YAMA","YAM","AMAHA","YAMAH"],
     "HONDA": ["HONDA", "HNDA", "HND","ONDA","HOND","HON"],
     "SUZUKI": ["SUZUKI", "SUZ", "SZK","SUSUKI"],
     "TRIUMPH": {"TRM","TRPH","TRIUMF"},
@@ -308,10 +308,10 @@ sinonimos_marcas = {
 
 sinonimos_modelos = {
     # YAMAHA
-    "YBR": ["YBR", "YBR125", "YBR 125"],
-    "FZ": ["FZ", "FZ150"],
-    "FAZER": ["FAZER", "FAZER250", "FAZER 250"],
-    "XTZ": ["XTZ", "XTZ250"],
+    "YBR125": ["YBR", "YBR125", "YBR 125","YR","YB"],
+    "FZ150": ["FZ", "FZ150"],
+    "FAZER250": ["FAZER", "FAZER250", "FAZER 250"],
+    "XTZ250": ["XTZ", "XTZ250"],
     "MT-03": ["MT-03", "MT 03", "MT03", "MT", "MT3"],
     # HONDA
     "CBR250": ["CBR250"],
