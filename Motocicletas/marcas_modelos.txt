@@ -1,0 +1,48 @@
+Marca: YAMAHA
+    Modelo: YBR125
+    Modelo: FZ150
+    Modelo: FAZER250
+    Modelo: XTZ250
+    Modelo: MT-03
+
+Marca: HONDA
+    Modelo: CBR250
+    Modelo: CBF150
+    Modelo: CG125
+    Modelo: XR150
+    Modelo: CB190
+
+Marca: SUZUKI
+    Modelo: GSX-R150
+    Modelo: GIXXERSF250
+    Modelo: V-STROM250
+    Modelo: GSX-S150
+    Modelo: INTRUDER250
+
+Marca: TRIUMPH
+    Modelo: STREET_TRIPLE_S
+    Modelo: BONNEVILLE_T100
+    Modelo: SPEED_TRIPLE_R
+    Modelo: TIGER_900_GT
+    Modelo: ROCKET_3_GT
+
+Marca: ZANELLA
+    Modelo: RX_150
+    Modelo: RX_200
+    Modelo: ZB_110
+    Modelo: RX_250
+    Modelo: STYLER_CRUISER_150
+
+Marca: MOTOMEL
+    Modelo: SKUA_150
+    Modelo: SKUA_250
+    Modelo: SIRIUS_200
+    Modelo: S2_250
+    Modelo: MAX_125_R
+
+Marca: ZONTES
+    Modelo: ZT_250_T
+    Modelo: M_310
+    Modelo: T_310
+    Modelo: R_250
+    Modelo: U_125
