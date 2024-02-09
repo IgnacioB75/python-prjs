@@ -162,136 +162,178 @@ marcas_motos = {
         "ROCKET_3_GT": {
             "año": 2023,
             "motor": "4 tiempos",
-            "cilindrada": "2458cc",
+            "cilindrada": "2500cc",
             "transmision": "6 velocidades",
-            "velocidad_maxima": "250 km/h",
+            "velocidad_maxima": "225 km/h",
             "capacidad_tanque": "18 litros"
         }
     },
-    "ZANELLA": {
-        "RX_150": {
-            "año": 2018,
-            "motor": "4 tiempos",
-            "cilindrada": "150cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "120 km/h",
-            "capacidad_tanque": "12 litros"
-        },
-        "RX_200": {
-            "año": 2019,
-            "motor": "4 tiempos",
-            "cilindrada": "200cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "130 km/h",
-            "capacidad_tanque": "13 litros"
-        },
-        "ZB_110": {
-            "año": 2020,
-            "motor": "4 tiempos",
-            "cilindrada": "110cc",
-            "transmision": "4 velocidades",
-            "velocidad_maxima": "100 km/h",
-            "capacidad_tanque": "7 litros"
-        },
-        "RX_250": {
+    "KAWASAKI": {
+        "NINJA250": {
             "año": 2021,
             "motor": "4 tiempos",
             "cilindrada": "250cc",
             "transmision": "6 velocidades",
-            "velocidad_maxima": "140 km/h",
+            "velocidad_maxima": "170 km/h",
             "capacidad_tanque": "15 litros"
         },
-        "STYLER_CRUISER_150": {
-            "año": 2022,
-            "motor": "4 tiempos",
-            "cilindrada": "150cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "125 km/h",
-            "capacidad_tanque": "10 litros"
-        }
-    },
-    "MOTOMEL": {
-        "SKUA_150": {
+        "Z650": {
             "año": 2020,
             "motor": "4 tiempos",
-            "cilindrada": "150cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "120 km/h",
-            "capacidad_tanque": "12 litros"
-        },
-        "SKUA_250": {
-            "año": 2021,
-            "motor": "4 tiempos",
-            "cilindrada": "250cc",
+            "cilindrada": "650cc",
             "transmision": "6 velocidades",
-            "velocidad_maxima": "140 km/h",
-            "capacidad_tanque": "14 litros"
-        },
-        "SIRIUS_200": {
-            "año": 2022,
-            "motor": "4 tiempos",
-            "cilindrada": "200cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "130 km/h",
-            "capacidad_tanque": "13 litros"
-        },
-        "S2_250": {
-            "año": 2019,
-            "motor": "4 tiempos",
-            "cilindrada": "250cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "135 km/h",
+            "velocidad_maxima": "200 km/h",
             "capacidad_tanque": "15 litros"
         },
-        "MAX_125_R": {
-            "año": 2018,
+        "VERSYS-X300": {
+            "año": 2019,
             "motor": "4 tiempos",
-            "cilindrada": "125cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "110 km/h",
-            "capacidad_tanque": "10 litros"
-        }
-    },
-    "ZONTES": {
-        "ZT_250_T": {
-            "año": 2021,
-            "motor": "4 tiempos",
-            "cilindrada": "250cc",
-            "transmision": "6 velocidades",
-            "velocidad_maxima": "150 km/h",
-            "capacidad_tanque": "17 litros"
-        },
-        "M_310": {
-            "año": 2022,
-            "motor": "4 tiempos",
-            "cilindrada": "310cc",
+            "cilindrada": "296cc",
             "transmision": "6 velocidades",
             "velocidad_maxima": "160 km/h",
-            "capacidad_tanque": "16 litros"
-        },
-        "T_310": {
-            "año": 2023,
-            "motor": "4 tiempos",
-            "cilindrada": "310cc",
-            "transmision": "6 velocidades",
-            "velocidad_maxima": "165 km/h",
             "capacidad_tanque": "17 litros"
         },
-        "R_250": {
+        "Z900": {
+            "año": 2021,
+            "motor": "4 tiempos",
+            "cilindrada": "948cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "230 km/h",
+            "capacidad_tanque": "17 litros"
+        },
+        "NINJA650": {
+            "año": 2022,
+            "motor": "4 tiempos",
+            "cilindrada": "649cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "210 km/h",
+            "capacidad_tanque": "15 litros"
+        }
+    },
+    "BMW": {
+        "S1000RR": {
+            "año": 2022,
+            "motor": "4 tiempos",
+            "cilindrada": "999cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "299 km/h",
+            "capacidad_tanque": "16.5 litros"
+        },
+        "R1250GS": {
+            "año": 2023,
+            "motor": "4 tiempos",
+            "cilindrada": "1254cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "215 km/h",
+            "capacidad_tanque": "20 litros"
+        },
+        "G310R": {
+            "año": 2021,
+            "motor": "4 tiempos",
+            "cilindrada": "313cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "143 km/h",
+            "capacidad_tanque": "11 litros"
+        },
+        "F900R": {
+            "año": 2022,
+            "motor": "4 tiempos",
+            "cilindrada": "895cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "220 km/h",
+            "capacidad_tanque": "13 litros"
+        },
+        "R18": {
             "año": 2020,
             "motor": "4 tiempos",
-            "cilindrada": "250cc",
+            "cilindrada": "1802cc",
             "transmision": "6 velocidades",
-            "velocidad_maxima": "155 km/h",
-            "capacidad_tanque": "15 litros"
+            "velocidad_maxima": "180 km/h",
+            "capacidad_tanque": "16 litros"
+        }
+    },
+    "DUCATI": {
+        "PANIGALE V2": {
+            "año": 2020,
+            "motor": "4 tiempos",
+            "cilindrada": "955cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "280 km/h",
+            "capacidad_tanque": "17 litros"
         },
-        "U_125": {
+        "MONSTER": {
+            "año": 2022,
+            "motor": "4 tiempos",
+            "cilindrada": "937cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "250 km/h",
+            "capacidad_tanque": "14.5 litros"
+        },
+        "STREETFIGTHER V4": {
+            "año": 2021,
+            "motor": "4 tiempos",
+            "cilindrada": "1103cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "305 km/h",
+            "capacidad_tanque": "16 litros"
+        },
+        "MULTISTRADA V4": {
+            "año": 2023,
+            "motor": "4 tiempos",
+            "cilindrada": "1158cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "250 km/h",
+            "capacidad_tanque": "22 litros"
+        },
+        "DIABOLIK": {
+            "año": 2024,
+            "motor": "4 tiempos",
+            "cilindrada": "1260cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "280 km/h",
+            "capacidad_tanque": "17 litros"
+        }
+    },
+    "DUKE": {
+        "DUKE 200": {
+            "año": 2023,
+            "motor": "4 tiempos",
+            "cilindrada": "200cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "135 km/h",
+            "capacidad_tanque": "10 litros"
+        },
+        "DUKE 390": {
+            "año": 2022,
+            "motor": "4 tiempos",
+            "cilindrada": "373cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "170 km/h",
+            "capacidad_tanque": "13.5 litros"
+        },
+        "DUKE 790": {
+            "año": 2021,
+            "motor": "4 tiempos",
+            "cilindrada": "799cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "220 km/h",
+            "capacidad_tanque": "14 litros"
+        },
+        "DUKE 890": {
+            "año": 2020,
+            "motor": "4 tiempos",
+            "cilindrada": "889cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "230 km/h",
+            "capacidad_tanque": "14 litros"
+        },
+        "DUKE 1290": {
             "año": 2019,
             "motor": "4 tiempos",
-            "cilindrada": "125cc",
-            "transmision": "5 velocidades",
-            "velocidad_maxima": "110 km/h",
-            "capacidad_tanque": "12 litros"
+            "cilindrada": "1301cc",
+            "transmision": "6 velocidades",
+            "velocidad_maxima": "250 km/h",
+            "capacidad_tanque": "16 litros"
         }
     }
 }
@@ -303,7 +345,11 @@ sinonimos_marcas = {
     "TRIUMPH": {"TRM","TRPH","TRIUMF"},
     "ZANELLA": ["ZAN","ZNL","SANELA","SANELLA","ZANE","ZANEL","ZANELL"],
     "MOTOMEL": ["MOTO","MOT","OTOMEL", "MOTOM","MOTOME"],
-    "ZONTES": ["ZON", "ZNS", "ZNTS","ZONTE","SONTES","SONT","ZONT"]
+    "ZONTES": ["ZON", "ZNS", "ZNTS","ZONTE","SONTES","SONT","ZONT"],
+    "KAWASAKI": ["KAWASAKI", "KAWA", "KAW","KAWASAK","KAWASKI","KAWAS"],
+    "BMW": ["BMW", "BM", "BIM","BWM"],
+    "DUCATI": ["DUCATI", "DUC", "DU","DCATI"],
+    "DUKE": ["DUKE", "DK", "DE","DKE"]
 }
 
 sinonimos_modelos = {
@@ -348,5 +394,23 @@ sinonimos_modelos = {
     "M_310": ["M_310"],
     "T_310": ["T_310"],
     "R_250": ["R_250"],
-    "U_125": ["U_125"]
+    "U_125": ["U_125"],
+    # KAWASAKI
+    "NINJA250": ["NINJA250"],
+    "Z650": ["Z650"],
+    "VERSYS-X300": ["VERSYS-X300"],
+    # BMW
+    "S1000RR": ["S1000RR"],
+    "R1250GS": ["R1250GS"],
+    "G310R": ["G310R"],
+    # DUCATI
+    "PANIGALE V2": ["PANIGALE V2"],
+    "MONSTER": ["MONSTER"],
+    "MULTISTRADA": ["MULTISTRADA"],
+    # DUKE
+    "DUKE_390": ["DUKE_390"],
+    "DUKE_200": ["DUKE_200"],
+    "DUKE_125": ["DUKE_125"],
+    "RC_390": ["RC_390"],
+    "RC_200": ["RC_200"]
 }

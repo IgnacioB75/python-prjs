@@ -46,3 +46,25 @@ Marca: ZONTES
     Modelo: T_310
     Modelo: R_250
     Modelo: U_125
+
+Marca: KAWASAKI
+    Modelo: NINJA250
+    Modelo: Z650
+    Modelo: VERSYS-X300
+
+Marca: BMW
+    Modelo: S1000RR
+    Modelo: R1250GS
+    Modelo: G310R
+
+Marca: DUCATI
+    Modelo: PANIGALE V2
+    Modelo: MONSTER
+    Modelo: HYPERMOTARD 950
+
+Marca: DUKE
+    Modelo: DUKE 200
+    Modelo: DUKE 390
+    Modelo: DUKE 790
+    Modelo: DUKE 890
+    Modelo: DUKE 1290    
