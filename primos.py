@@ -5,9 +5,9 @@ Condiciones para que un número sea primo:
 3. No ser divisible por cualquier otro número natural aunque de decimal  
 
 Contador de primos:
-- Pedirle al usuario la cantidad de números primos que desea ver
-- Añadir números primos a una lista de la misma longitud que el número ingresado por el usuario
-- Mostrar la lista (de menor a mayor) con los números primos (sin el 0 ni el 1)
+-/ Pedirle al usuario la cantidad de números primos que desea ver 
+-/ Añadir números primos a una lista de la misma longitud que el número ingresado por el usuario
+-/ Mostrar la lista (de menor a mayor) con los números primos (sin el 0 ni el 1)
 '''
 # Primeros 5 números primos: 2, 3, 5, 7 y 11
 cantidad = int(input("Ingrese la cantidad de números primos que desea ver: "))
