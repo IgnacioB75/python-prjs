@@ -73,7 +73,7 @@ def mar_sur():
 def tesoro():
     global Felicidad
     print("\nLuego de tanto viaje te acuestas a dormir 😴... y te das cuenta que toda la aventura fue un sueño. \nTe das cuenta que todo en realidad fue un sueño, te despiertas al lado de tu esposo que te preparó ¡un videojuego en su computadora!")
-    input("¿Besar? (Si / No)")
+    input("¿Besar? (Si / No)\n")
     Felicidad = 100
 
 while True: 
