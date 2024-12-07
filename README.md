@@ -1,7 +1,7 @@
 # 🐍 Proyectos de escritorio y demás en Python 🐍
 
-Estos son algunos proyectos de esritorio, webs y demás hechos en Python en mi tiempo libre, probando diversas bibliotecas o tecnologías que encontraba interesantes.
-Cada cierto tiempo actualizo este repositorio con nuevos proyectos, estoy abierto a sugerencias o recomendaciones.
+Estos son algunos proyectos de escritorio, webs y demás hechos en Python en mi tiempo libre probando diversas bibliotecas o tecnologías que encontraba interesantes.
+Cada cierto tiempo actualizo este repositorio con nuevos proyectos, estoy abierto a sugerencias y/o recomendaciones.
 
 ***#NiceCoding🐍***
 
